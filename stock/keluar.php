@@ -174,8 +174,8 @@
                                 <a href="javascript:void(0)" aria-expanded="true"><i class="ti-layout"></i><span>Transaksi Data
                                     </span></a>
                                 <ul class="active">
-                                    <li><a href="masuk.php">Barang Masuk / Kembali</a></li>
-                                    <li class="active"><a href="keluar.php">Barang Keluar</a></li>
+                                    <li><a href="masuk.php">Buku Masuk</a></li>
+                                    <li class="active"><a href="keluar.php">Buku Keluar</a></li>
                                 </ul>
                             </li>
                             <li>

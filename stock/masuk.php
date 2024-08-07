@@ -172,8 +172,8 @@
                                 <a href="javascript:void(0)" aria-expanded="true"><i class="ti-layout"></i><span>Transaksi Data
                                     </span></a>
                                 <ul class="active">
-                                    <li class="active"><a href="masuk.php">Barang Masuk / Kembali</a></li>
-                                    <li><a href="keluar.php">Barang Keluar</a></li>
+                                    <li class="active"><a href="masuk.php">Buku Masuk</a></li>
+                                    <li><a href="keluar.php">Buku Keluar</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -407,7 +407,7 @@
 				<div class="modal-dialog">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h4 class="modal-title">Input Barang Masuk</h4>
+							<h4 class="modal-title">Input Buku Masuk</h4>
 						</div>
 						<div class="modal-body">
 							<form action="barang_masuk_act.php" method="post">

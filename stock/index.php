@@ -62,14 +62,14 @@
                         <ul class="metismenu" id="menu">
 							<li class="active"><a href="index.php"><span>Notes</span></a></li>
                             <li>
-                                <a href="stock.php"><i class="ti-dashboard"></i><span>Stock Barang</span></a>
+                                <a href="stock.php"><i class="ti-dashboard"></i><span>Stock Buku</span></a>
                             </li>
 							<li>
-                                <a href="javascript:void(0)" aria-expanded="true"><i class="ti-layout"></i><span>Transaksi Data
+                                <a href="javascript:void(0)" aria-expanded="true"><i class="ti-layout"></i><span>Transaksi Buku
                                     </span></a>
                                 <ul class="collapse">
-                                    <li><a href="masuk.php">Barang Masuk / Kembali</a></li>
-                                    <li><a href="keluar.php">Barang Keluar</a></li>
+                                    <li><a href="masuk.php">Buku Masuk</a></li>
+                                    <li><a href="keluar.php">Buku Keluar</a></li>
                                 </ul>
                             </li>
                             <li>
